@@ -7,6 +7,6 @@ Video ensinando como instalar as bibliotecas necessarias:
 https://www.youtube.com/watch?v=RM2JWC0dzXw&ab_channel=Gutela
 
 Integrantes:
-Augusto Lescura Pinto - 10677290
-Felipe Tanus Rodrigues - 13732352
+Augusto Lescura Pinto - 10677290/
+Felipe Tanus Rodrigues - 13732352/
 Pablo Felipe Montemor - 13692289
